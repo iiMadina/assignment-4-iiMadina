@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assignment-4</string>
+    <string name="olympic_silver_medalists">Olympic Silver Medalists</string>
+    <string name="athlete">Athlete</string>
+</resources>
